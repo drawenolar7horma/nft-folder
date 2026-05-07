@@ -55,7 +55,7 @@ struct MetadataTask: AI.Task {
             clarifications = """
             i prefer NFT to be spelled as Nft (in russian: Нфт). use a similar capitalization style when transliterating. 
             
-            Only Arts is part of the name that should not be translated or transliterated.
+            High-Res Artworks is part of the name that should not be translated or transliterated.
             """
         case .subtitle:
             clarifications = """
